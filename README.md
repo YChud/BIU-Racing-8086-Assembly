@@ -1,5 +1,3 @@
-# BIU-Racing-8086-Assembly
-
 # BIU Racing — 8086 Assembly Racing Game
 
 **A retro-style racing game developed entirely in Intel 8086 Assembly, featuring hardware interrupt handling, direct video memory manipulation, real-time game logic, and collision detection.**
